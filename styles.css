@@ -241,7 +241,11 @@ h5{
   margin-bottom: 15px;
 }
 .pra{
-  text-align: justify
+  color:black;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+  text-align: justify;
 }
 .pra button{
   text-align: left;
