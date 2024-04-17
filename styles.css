@@ -192,7 +192,9 @@ a{
   font-family: 'Montserrat', sans-serif;
   color:#734F96;
   text-decoration: none;
-  margin: 10px 20px;
+}
+.footer-link{
+    margin: 10px 20px;
 }
 a:hover{
   color: #EAF6F6;
